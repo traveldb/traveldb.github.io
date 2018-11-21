@@ -2,7 +2,9 @@
 title: TravelDb API - The jack of all trades travel APIs
 email: hello@traveldb.io
 description: > 
-TravelDb is a set of travel APIs to build or supercharge your travel product. Whether you need airport API, country API, maps API, currency conversion API or weather API, TravelDb has you covered. 
+TravelDb is a set of travel APIs to build or supercharge your travel product. 
+Whether you need airport API, country API, maps API, 
+currency conversion API or weather API, TravelDb has you covered. 
 baseurl: "" 
 url: "https://traveldb.io"
 twitter_username: traveldbapi
