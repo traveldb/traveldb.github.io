@@ -16,6 +16,3 @@ sass:
 include: ['_pages']
 kramdown:
     input: GFM
-
-# Theme settings
-theme: jekyll-theme-merlot
