@@ -10,5 +10,10 @@ url: "https://traveldb.io"
 twitter_username: traveldbapi
 github_username:  traveldb
 
+# Build settings
+include: ['_pages']
+kramdown:
+    input: GFM
+
 # Theme settings
 theme: jekyll-theme-merlot
